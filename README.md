@@ -11,4 +11,12 @@ Part 1. Semantic segmentation using U-Net and Deep-lab with ASPP
 Part 2. Compact Convolutional Transformers with self-attention
 
 
+#Homework 3.
+Generative-adversarial network for CIFAR
+
+
+
+
+
+
 
