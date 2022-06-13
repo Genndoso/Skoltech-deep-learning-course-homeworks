@@ -11,9 +11,13 @@ Part 1. Semantic segmentation using U-Net and Deep-lab with ASPP
 Part 2. Compact Convolutional Transformers with self-attention
 
 
-#Homework 3.
+# Homework 3.
 Generative-adversarial network for CIFAR
 
+
+# Homework 4. 
+Part 1. Unsupervised Monocular Depth Estimation with Left-Right Consistency
+Part 2. End-To-End view synthesis from a single image
 
 
 
